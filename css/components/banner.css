@@ -1,0 +1,25 @@
+.banner {
+  background: white;
+  background-size: cover;
+  background-position: bottom;
+  color: white;
+  height: 500px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.banner-info {
+  font-size: 20px;
+  font-weight: bold;
+  width: 60%;
+  padding-bottom: 120px;
+}
+
+.banner-info p {
+  font-size: 16px;
+}
+
+.banner-info h1 {
+  font-size: 40px;
+}
